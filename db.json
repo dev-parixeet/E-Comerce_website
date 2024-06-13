@@ -1,0 +1,197 @@
+{
+  "posts": [
+    {
+      "id": "10",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      },
+      "quntity": 2,
+      "quantity": 3
+    },
+    {
+      "id": "20",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      },
+      "quntity": 2,
+      "quantity": 5
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      },
+      "quntity": 1
+    },
+    {
+      "id": "14",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      },
+      "quntity": 3
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      },
+      "quntity": 1
+    },
+    {
+      "id": "13",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      },
+      "quntity": 1
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      },
+      "quntity": 1
+    }
+  ],
+  "contact": [
+    {
+      "id": "1ae4",
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "subject": ""
+    },
+    {
+      "id": "3da2",
+      "firstname": "AAAAAbb",
+      "lastname": "fgh",
+      "email": "praveen.kumar@excellentwebworld.in",
+      "number": 34234324324,
+      "subject": "fgh"
+    },
+    {
+      "id": "7b03",
+      "firstname": "aaas",
+      "lastname": "asas",
+      "email": "kminchelle@gmail.com",
+      "number": 11313131321321320000,
+      "subject": "sasas"
+    },
+    {
+      "id": "d089",
+      "firstname": "df",
+      "lastname": "sdf",
+      "email": "developer.eww@gmail.com",
+      "number": 121545454,
+      "subject": "dfs"
+    },
+    {
+      "id": "20fc",
+      "firstname": "df",
+      "lastname": "sdf",
+      "email": "developer.eww@gmail.com",
+      "number": 121545454,
+      "subject": "dfs"
+    }
+  ],
+  "shipping": [
+    {
+      "id": "6072",
+      "shippingemail": "akshaykumar9090@yahoo.com",
+      "address": "a-101 Arav Apartment Bandra weast",
+      "city": "Mumbai, Maharastra",
+      "number": "7845821458",
+      "zipcode": "748962"
+    },
+    {
+      "id": "7ea1",
+      "shippingemail": "ajay123@gmail.com",
+      "address": "part-1 juhu beach road juhu, weast",
+      "city": "Mumbai, Maharastra",
+      "number": "89547125896",
+      "zipcode": "784512"
+    },
+    {
+      "id": "a2d8",
+      "shippingemail": "ajay123@gmail.com",
+      "address": "sabarmati riverfront ",
+      "city": "Ahmedabad",
+      "number": "78787414125",
+      "zipcode": "568596"
+    },
+    {
+      "id": "dc55",
+      "shippingemail": "jaman1212@gmail.com",
+      "address": "char pai road ujjain",
+      "city": "ujjain ,MP",
+      "number": "2562418963",
+      "zipcode": "8954712"
+    },
+    {
+      "id": "1b21",
+      "shippingemail": "jaman1212@gmail.com",
+      "address": "char pai road ujjain",
+      "city": "ujjain ,MP",
+      "number": "2562418963",
+      "zipcode": "8954712"
+    },
+    {
+      "id": "62fa",
+      "shippingemail": "jaman1212@gmail.com",
+      "address": "char pai road ujjain",
+      "city": "ujjain ,MP",
+      "number": "2562418963",
+      "zipcode": "8954712"
+    },
+    {
+      "id": "8ca8",
+      "shippingemail": "ajay123@gmail.com",
+      "address": "sabarmati riverfront ",
+      "city": "Ahmedabad",
+      "number": "5354353535",
+      "zipcode": "784512"
+    }
+  ],
+  "whishlist": []
+}
