@@ -39,7 +39,7 @@ export default function ProductDetail({ }: Props) {
             const updatevalue = filtered.map((item: any, id: any) => {
                 return item.id == showProduct.id ? { ...item, quntity: item.quntity + 1 } : item
             });
-            console.log(updatevalue, "UUUUUUU");
+            console.log(updatevalue, "Data value Upades");
 
             try {
                 const response = await axios.put(`http://localhost:4000/posts/${slug}`, updatevalue[0]);
