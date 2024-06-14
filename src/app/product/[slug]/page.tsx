@@ -54,9 +54,8 @@ export default function ProductDetail({ }: Props) {
                 const response = await axios.post(`http://localhost:4000/posts`, showProduct);
                 console.log(response, "DDDDDgggggg");
 
-
             } catch (error) {
-                console.error('Error fetching data:', error);
+                console.error('Error fetching data...:', error);
             }
         }
     }
@@ -217,7 +216,7 @@ export default function ProductDetail({ }: Props) {
 
                             </div>
                             <div className='flex gap-2 ml-[-10px]'> <Link onClick={AddtoCart} href='/cart' className=" mt-7 w-32 text-white bg-black hover:bg-lime-500 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-lime-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to Cart</Link>
-                            <a href="/" className=" mt-7 w-32 text-white bg-sky-400 hover:bg-blue-500 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-lime-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Buy Now</a></div>
+                                <a href="/" className=" mt-7 w-32 text-white bg-sky-400 hover:bg-blue-500 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-lime-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Buy Now</a></div>
 
                         </div>
                     </a>
