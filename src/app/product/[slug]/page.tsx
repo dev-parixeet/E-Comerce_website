@@ -52,7 +52,7 @@ export default function ProductDetail({ }: Props) {
                 showProduct.quntity = 1;
                 showProduct.id = showProduct.id.toString()
                 const response = await axios.post(`http://localhost:4000/posts`, showProduct);
-                console.log(response, "DDDDDDDDDD");
+                console.log(response, "DDDDDgggggg");
 
 
             } catch (error) {
